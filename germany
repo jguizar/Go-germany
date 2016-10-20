@@ -1,0 +1,42 @@
+speed 1000
+pen black,2 
+slide 100,0 
+slide 0,50
+slide -100, 0
+slide 0,-50
+pen white, .01
+rt 90
+fd 10
+lt 90
+fd 10
+box yellow, 20
+rt 90
+fd 20
+box yellow, 20
+fd 20
+box yellow, 20
+fd 20
+box yellow, 20
+fd 20
+box yellow, 20
+fd 2
+lt 90 
+fd 20
+lt 90
+box red, 20
+fd 20
+box red,20
+fd 20 
+box red, 20
+fd 20
+box red, 20
+fd 20
+box red, 20
+fd 2
+rt 90 
+fd 20
+rt 90
+box black, 20
+fd 20
+box black,20
+fd 20 
